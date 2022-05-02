@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/vikky-zopsmart/github-readme-activity-graph"><img alt="vikky singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikky-10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vikky-zopsmart/github-readme-activity-graph"><img alt="vikky singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikky-zopsmart&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,7 +64,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/vikky-10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/vikky-zopsmart/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/vikkysingh_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_vikkysingh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  
@@ -73,7 +73,7 @@
 
 ## ❤ Followers
  
-<a href="https://github.com/vikky-zopsmart?tab=followers"><img src="https://img.shields.io/github/followers/vikky-10?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/vikky-zopsmart?tab=followers"><img src="https://img.shields.io/github/followers/vikky-zopsmart?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
