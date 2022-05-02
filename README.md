@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently working with **zopsmart.com**
 
-- 👯 I’m currently working on **UI/UX**
+- 👯 I’m currently working on **Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://vikkysingh.netlify.app/)**
 
-- 📫 How to reach me **vikkysing2k1@gmail.com**
+- 📫 How to reach me **vikky.zopsmart@gmail.com**
  
 
 ## 🚀 Languages and Tools:
